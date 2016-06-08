@@ -1,0 +1,33 @@
+{
+  "name": "pumlhorse-postgres",
+  "version": "0.1.0",
+  "description": "Postgres adapter for Pumlhorse scripts",
+  "main": "app.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pumlhorse/pumlhorse-postgres.git"
+  },
+  "keywords": [
+    "pumlhorse",
+    "postgres",
+    "data adapter"
+  ],
+  "author": "Revelio <support@getrevelio.com> (https://www.getrevelio.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pumlhorse/pumlhorse-postgres/issues"
+  },
+  "homepage": "https://github.com/pumlhorse/pumlhorse-postgres#readme",
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "pg": "^4.5.6",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "proxyquire": "^1.7.9"
+  }
+}
