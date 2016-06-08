@@ -15,7 +15,7 @@
     "postgres",
     "data adapter"
   ],
-  "author": "Revelio <support@getrevelio.com> (https://www.getrevelio.com)",
+  "author": "Matt Dickinson <matt@mdickin.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/pumlhorse/pumlhorse-postgres/issues"
